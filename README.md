@@ -18,11 +18,9 @@ Add these in a folder named `visuals/` and embed like this:
 
 ### 🧾 Top 10 Most Watched Netflix Series
 
-![Top Series](visuals/top_series_chart.png)
+![Top Series](screenshot/vieweship_data_analysis.png)
 
 ### 📅 Monthly Viewership Trend
-
-![Monthly Trend](visuals/monthly_trend.png)
 
 > _Make sure to include clean and meaningful chart titles in your actual images!_
 
@@ -35,7 +33,7 @@ Add these in a folder named `visuals/` and embed like this:
 
 ## 📈 Power BI Dashboard Preview
 
-![Dashboard Preview](visuals/powerbi_dashboard.png)
+![Dashboard Preview](screenshot/vieweship_data_analysis.png)
 
 > Add a screenshot of your dashboard here (save as PNG or JPG).
 

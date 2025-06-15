@@ -31,15 +31,3 @@ Add these in a folder named `visuals/` and embed like this:
 - Shows with shorter seasons (6–8 episodes) tend to have higher completion rates.
 - User ratings positively correlate with series longevity.
 
-## 📈 Power BI Dashboard Preview
-
-![Dashboard Preview](screenshot/vieweship_data_analysis.png)
-
-> Add a screenshot of your dashboard here (save as PNG or JPG).
-
-## 🧪 How to Run This Project
-
-1. Clone this repo:
-   ```bash
-   git clone https://github.com/yourusername/netflix-viewership-analysis.git
-   cd netflix-viewership-analysis
